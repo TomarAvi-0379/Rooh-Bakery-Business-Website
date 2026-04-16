@@ -1,0 +1,71 @@
+.About-Us {
+    display: flex;
+    flex-direction: column;
+    background-color: #EFF7FA;
+    
+}
+
+.About-Us-Heading {
+    text-align: center;
+    font-size: 30px;
+    color: #a9802a;
+    font-weight: 600;
+
+}
+
+.About-Us-Text {
+    text-align: center;
+    padding: 0 300px;
+    font-size: 15px;
+    padding-bottom: 40px;
+    
+}
+
+.About-Us-Content-Text {
+    background-color: #FFFFFF;
+    padding-bottom: 60px;
+}
+
+
+
+.Our-Promise-Grid {
+    display: flex;
+    flex-direction: row;
+}
+
+.Our-Promise > p {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+    color: #a9802a;
+    padding-top: 34px;
+}
+
+.Promise-Flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.Our-Promise-Image {
+    height: 50px;
+    width: 50px;
+    align-self: center;
+    padding-bottom: 13px;
+}
+
+.Our-Promise-Heading {
+    font-size: 23px;
+    font-weight: 600;
+    color: #a9802a;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.Our-Promise-Text {
+    font-size: 18px;
+    text-align: center;
+    padding: 0 50px;
+    padding-bottom: 170px;
+}
+
+
